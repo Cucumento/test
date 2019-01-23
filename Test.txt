@@ -1,5 +1,7 @@
 print("Hello World!");
-print("hello nobody");
+print("hello all");
+print("Развитие следующей ветки");
+>>>>>>> master-2
 
 f.out;
 end;
